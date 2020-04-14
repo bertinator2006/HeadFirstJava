@@ -4,19 +4,19 @@ class PoolPuzzleOne{
 		String noise = "noise";
 		String oyster
 		while (){
+			System.out.print("a");
 			if (x < 1){
-				System.out.print("a");
+				System.out.print(" ");
 			}
-			System.out.print(" ");
-			if (x > 1){
-
+			System.out.print("n");
+			if ( x > 0 ){
+				;
 			}
 			if (x == 1){
-
+				;
 			}
-
 			if (){
-
+				;
 			}
 			System.out.println("");
 			x = x + 1;
