@@ -11,13 +11,13 @@ class PoolPuzzleOne{
 			System.out.print("n");
 			if ( x < 4 ){
 				System.out.print("oise");
-				x = x + 1;
+				x = x + 3;
 			}
 			if (x == 1){
-				;
+				System.out.print("noys");
 			}
-			if (){
-				;
+			if (x < 4){
+				System.out.print(" oyster");
 			}
 			System.out.println("");
 			x = x + 1;
