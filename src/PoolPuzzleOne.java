@@ -9,8 +9,9 @@ class PoolPuzzleOne{
 				System.out.print(" ");
 			}
 			System.out.print("n");
-			if ( x > 0 ){
-				;
+			if ( x < 4 ){
+				System.out.print("oise");
+				x = x + 1;
 			}
 			if (x == 1){
 				;
