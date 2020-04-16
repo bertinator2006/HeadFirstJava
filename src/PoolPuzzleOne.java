@@ -3,7 +3,7 @@ class PoolPuzzleOne{
 		String a = "a";
 		String noise = "noise";
 		String oyster
-		while (){
+		while (x > 0){
 			System.out.print("a");
 			if (x < 1){
 				System.out.print(" ");
@@ -16,7 +16,7 @@ class PoolPuzzleOne{
 			if (x == 1){
 				System.out.print("noys");
 			}
-			if (x < 4){
+			if (x > 3){
 				System.out.print(" oyster");
 			}
 			System.out.println("");
